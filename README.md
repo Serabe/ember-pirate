@@ -1,26 +1,19 @@
-# Ember-pirate
+# Ember Pirate
 
-This README outlines the details of collaborating on this Ember addon.
+This is quite likely the only Ember CLI addon that can work even if you don't
+add it to your dependencies.
 
-## Installation
+Ember Pirate provides an `arr` helper that accepts as many positional
+parameters as you want and returns a collection with them all.
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+# Installation
 
-## Running
+Ember Pirate can work even if you do not declare it as a dependency.
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+## Normal Installation
 
-## Running Tests
+`ember install ember-pirate`
 
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+## Pirate Installation
 
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+`ember generate helper arr`
