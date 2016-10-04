@@ -1,6 +1,6 @@
 {
   "name": "ember-pirate",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "description": "Provides an arr helper",
   "directories": {
     "doc": "doc",
