@@ -9,7 +9,7 @@ parameters as ye want and returns a collection with them all.
 
 # Installation
 
-~Ember Pirate can work even if ye do not declare it as a dependency.~
+~~Ember Pirate can work even if ye do not declare it as a dependency.~~
 
 ## Normal Installation
 
@@ -17,15 +17,15 @@ parameters as ye want and returns a collection with them all.
 
 ## Pirate Installation
 
-~`ember generate helper arr`~
+~~`ember generate helper arr`~~
 
 ## Using Ember Twiddle
 
-~Do ye want to use Ember Pirate in yer twiddles but support for addons is not
-available? Good news! Ember Pirate can be used easily thar too.~
+~~Do ye want to use Ember Pirate in yer twiddles but support for addons is not
+available? Good news! Ember Pirate can be used easily thar too.~~
 
-~Go t' Ember Twiddle, click `File > Add... > Helper` and change the path t'
-`helpers/arr.js` when prompted.~
+~~Go t' Ember Twiddle, click `File > Add... > Helper` and change the path t'
+`helpers/arr.js` when prompted.~~
 
 # How to use it
 
