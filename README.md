@@ -1,5 +1,8 @@
 # Ember Pirate
 [![CircleCI](https://circleci.com/gh/Serabe/ember-pirate.svg?style=svg)](https://circleci.com/gh/Serabe/ember-pirate)
+[![Ember Observer Score](https://emberobserver.com/badges/ember-pirate.svg)](https://emberobserver.com/addons/ember-pirate)
+[![npm version](https://badge.fury.io/js/ember-pirate.svg)](https://badge.fury.io/js/ember-pirate)
+[![Dependencies](https://david-dm.org/serabe/ember-pirate.svg)](https://david-dm.org/serabe/ember-pirate)
 
 This is quite likely t' only Ember CLI addon that can work even if ye don't
 add it t' yer dependencies.
