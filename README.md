@@ -1,5 +1,5 @@
 # Ember Pirate
-[![CircleCI](https://circleci.com/gh/Serabe/ember-pirate.svg?style=svg)](https://circleci.com/gh/Serabe/ember-pirate)
+[![Build Status](https://travis-ci.org/Serabe/ember-pirate.svg?branch=master)](https://travis-ci.org/Serabe/ember-pirate)
 [![Ember Observer Score](https://emberobserver.com/badges/ember-pirate.svg)](https://emberobserver.com/addons/ember-pirate)
 [![npm version](https://badge.fury.io/js/ember-pirate.svg)](https://badge.fury.io/js/ember-pirate)
 [![Code Climate](https://codeclimate.com/github/Serabe/ember-pirate/badges/gpa.svg)](https://codeclimate.com/github/Serabe/ember-pirate)
